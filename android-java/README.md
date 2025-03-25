@@ -37,7 +37,7 @@ This sample demonstrates an Android application written in Java that is both pro
 
 ## Setup
 
-### 1. Register the app
+### 1. Register the app ...
 
 First, complete the steps in [Register an application with the Microsoft identity platform](https://learn.microsoft.com/azure/active-directory/develop/quickstart-register-app) to register the sample app.
 
